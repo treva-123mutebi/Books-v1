@@ -22,4 +22,12 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1AA3459E-F433-4E78-B8DF-E4F27C036A14}
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.VersionControlPolicy = $1
+		$1.CommitMessageStyle = $2
+		$2.Indent = @\t
+		$2.LastFilePostfix = "@:\n  "
+		$2.IncludeDirectoryPaths = True
+	EndGlobalSection
 EndGlobal

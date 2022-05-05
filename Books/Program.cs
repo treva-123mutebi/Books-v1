@@ -23,6 +23,7 @@ namespace Books
             table.CreateIfNotExistsAsync();
 
             // Create a Book instance.
+
             Book book = new Book()
             {
                 Author = "Sozi Arthur.",
